@@ -1,0 +1,5 @@
+Survey_Year,Overall_Femicide_ASR,Overall_Femicide_ASR_CI_Low,Overall_Femicide_ASR_CI_High,IPF_ASR,IPF_ASR_CI_Low,IPF_ASR_CI_High,NIPF_ASR,NIPF_ASR_CI_Low,NIPF_ASR_CI_High,Global_IPF_Average,Survey_Label
+1999,12.9,11.5,14.3,5.3,4.3,6.3,7.6,6.4,8.8,1.1,1999 (Baseline)
+2009,9.6,8.4,10.8,3.4,2.7,4.1,6.2,5.2,7.2,1.1,2009 (Post-decline)
+2017,11.1,9.8,12.4,4.9,4.1,5.8,6.2,5.2,7.2,1.1,2017 (Stagnation)
+2020,10.6,9.7,11.5,5.5,4.7,6.2,5.1,4.4,5.8,1.1,2020/21 (COVID-19)

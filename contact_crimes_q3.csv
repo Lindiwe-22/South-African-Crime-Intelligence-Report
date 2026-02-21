@@ -1,0 +1,12 @@
+Crime_Category,Q3_2024_25,Q3_2025_26,Change,Pct_Change,Severity
+Murder,6542,5940,-602,-8.7,HIGH
+Attempted Murder,6851,6730,-121,-1.8,HIGH
+Assault GBH,39231,38442,-789,-2.0,HIGH
+Common Assault,41206,,,,MEDIUM
+Rape,11803,11430,-373,-3.2,HIGH
+Sexual Offences (Total),11870,11497,-373,-3.1,HIGH
+Robbery with Aggravating Circumstances,68291,,,,HIGH
+Common Robbery,13452,,,,MEDIUM
+Carjacking,4536,4402,-134,-3.0,HIGH
+Residential Robbery,6712,,,,HIGH
+Non-Residential Robbery,4921,,,,HIGH
